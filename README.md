@@ -13,3 +13,4 @@
 ### [BurpSuite CyberSecurity Tool](https://portswigger.net/burp)
 ### [CyberChef](https://gchq.github.io/CyberChef/)
 ### [AES Encryption](https://aesencryption.net/)
+### [quipquip](https://quipqiup.com/)

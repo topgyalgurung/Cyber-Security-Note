@@ -14,7 +14,7 @@
 * Unit 10 & 11 - NetSec
 * Unit 12 & 13 - Capture The Flag
 
-
+# Resources
 ## [CTF101](https://ctf101.org/)
 * [CTF Cryptography](https://ctf101.org/cryptography/overview/)
 
@@ -25,8 +25,11 @@
 
 ## Tools
 
-### [BurpSuite CyberSecurity Tool](https://portswigger.net/burp)
-### [CyberChef](https://gchq.github.io/CyberChef/)
-### [AES Encryption](https://aesencryption.net/)
-### [quipquip](https://quipqiup.com/)
-### [hashcat](https://hashcat.net/hashcat/)
+* [BurpSuite CyberSecurity Tool](https://portswigger.net/burp)
+* [CyberChef](https://gchq.github.io/CyberChef/)
+* [AES Encryption](https://aesencryption.net/)
+* [quipquip](https://quipqiup.com/)
+* [hashcat](https://hashcat.net/hashcat/)
+
+* [Steganography Tools](https://futureboy.us/stegano/)
+* [Online PCAP Analyzer](https://apackets.com/)
